@@ -1,0 +1,1 @@
+The standard deviation can be used to measure the noise level in a sample. This class was developed to work with the Welford class, recording the highest deviation value found within a period of time.
